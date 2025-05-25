@@ -1,4 +1,5 @@
  Smart Personal Finance Analyzer
 
- build this from project directions...
+A basic program to view, edit, add or remove transaction from the Financial transactions file.  it's a menu driven progran.
+
  
